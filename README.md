@@ -1,4 +1,4 @@
-# Exercise about basic Flutter widgets, TabBar and Gradient.
+# Exercise with basic Flutter widgets, TabBar and Gradient.
 > Exercise about basic Flutter widgets, Gradient and creating TabBar. 
 
 ## Table of contents
